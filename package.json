@@ -1,0 +1,11 @@
+{
+  "name": "template101",
+  "version": "1.0.0",
+  "description": "templaet for agency website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
