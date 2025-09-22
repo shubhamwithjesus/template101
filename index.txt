@@ -1,12 +1,12 @@
-Desinic - Get Best UI Design
+Gratitude - Get Best UI Design
 
 
 
 #......... HEADER ..........#
 
-Desinic
+Gratitude
 
-Desinic
+Gratitude
 
 aria-labe = Close Menu
 <ion-icon name="close-outline"></ion-icon>
@@ -144,7 +144,7 @@ Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
 
 #......... FOOTER ..........#
 
-Desinic
+Gratitude
 
 Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
 
@@ -183,8 +183,8 @@ Contact Us
 +248-687-1365
 
 <ion-icon name="mail"></ion-icon>
-info@desinic.com
-help@desinic.com
+info@Gratitude.com
+help@Gratitude.com
 
 <ion-icon name="location"></ion-icon>
 Pontiac, Michigan, United States of America
